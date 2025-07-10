@@ -1,0 +1,3 @@
+C:\Users\shatr\OneDrive\Desktop\final\Model\rim.pt
+C:\Users\shatr\OneDrive\Desktop\final\Model\cap1.pt
+C:\Users\shatr\OneDrive\Desktop\test_final\runs\detect\train2\weights\best.pt

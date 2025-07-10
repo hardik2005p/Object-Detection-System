@@ -1,0 +1,1 @@
+C:\Users\Utkar\anaconda3\envs\tf2\Scripts\labelImg.exe
